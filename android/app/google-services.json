@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "796219209312",
+    "project_id": "duogle2803",
+    "storage_bucket": "duogle2803.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:796219209312:android:436d40ed5cfcd6efa9f505",
+        "android_client_info": {
+          "package_name": "com.example.world"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCoCmnReQCD9YWTAhk5G1oBsdOc24luc3g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

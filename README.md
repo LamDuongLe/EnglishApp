@@ -1,4 +1,4 @@
-# f2_flutter_ecommerce_app
+# f2_flutter_English_app
 
 A new Flutter project.
 
